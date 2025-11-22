@@ -1,4 +1,4 @@
-# Reddit Scraper Year
+# Reddit Data Scraper (Year Wise)
 
 A powerful Python tool to scrape posts and comments from a specific subreddit starting from a given year.
 
